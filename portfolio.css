@@ -1,0 +1,126 @@
+body{
+    background-color: rgb(234, 202, 221);
+}
+.navbar{  
+    display: block;
+    padding-top: 10;
+    padding-bottom: 3;
+    background-color: rgb(105, 2, 105);
+    border-radius: 20px;
+    
+}
+.navbar li{
+    font-family:cursive;
+    padding-right: 50;
+    float: right;
+    font-weight: 500;
+    font-size: 20;
+    color: white;
+
+}
+.navbar li:hover{
+    border-radius: 10;
+    font-weight: 1000;
+    color: rgba(226, 124, 124);
+   
+}
+.nav_name{
+    font-size: 25;
+    margin-top: -20;
+    font-family:cursive;
+    margin-left:100 ;
+    color: white;
+
+}
+
+.info{
+    width:400;
+    margin-top: 150;
+    float: right;
+    margin-right: 50;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20;
+    height: 300;
+    background-color: rgb(105, 2, 105,0.9);
+    border-radius: 20%;
+    
+    
+}
+.info_link{
+    text-decoration: none;
+}
+.info_link h3{
+    width: 150;
+    text-align: center;
+    margin-left: 125;
+    background-color: rgb(249, 109, 109);
+    border-radius:10px ;
+    font-size:20;
+    color: aliceblue;
+}
+
+.info_link h3:hover{
+    background-color:white ;
+    color: rgb(83, 128, 200);
+}
+.info img{
+    width: 45;
+}
+.About{
+    background-color: rgb(105, 2, 105);
+    margin: 10 70 0 70 ;
+    border-radius: 20px;
+    height: 600;
+}
+.profile_photo{
+    margin: 40 30;
+    border-radius: 20px;
+    width: 300;
+   
+}
+h2{
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    margin-top:700;
+    margin-left: 20;
+    font-size: 30;
+}
+.ab_side{
+    margin-left:400 ;
+    margin-right:40;
+    margin-top:-340;
+    color: white;
+    font-size: 15px;
+}
+
+th,td{
+    background-color: rgb(255, 212, 239);
+}
+
+.About_me{
+    background-color: black;
+    padding-bottom: 20;
+    border-radius: 10px;
+    
+    
+}
+.tab{
+    margin-left: 70px;
+    background-color: rgb(105, 2, 105);
+    margin: 10 70 0 70 ;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.awards{
+    margin: 10 70 0 70 ;
+    background-color: rgb(105, 2, 105);
+    padding: 20px;
+    color: white;
+    font-size: 15px;
+    border-radius: 20px;
+}
+
+
+
