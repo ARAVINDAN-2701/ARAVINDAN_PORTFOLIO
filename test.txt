@@ -1,0 +1,8 @@
+<p>"The core concept behind this project is to streamline the cooking process for individuals, particularly females, by introducing an innovative Smart Gas Stove. Designed with convenience in mind, the stove incorporates a motorized knob that allows users to effortlessly adjust flame intensity to low, medium, or high settings for specified time intervals using the dedicated touchpad or using the dedicated mobile app through wifi. Additionally, the stove has a dedicated cooker mode where it detects the number of whistles the stove should be on and turns off the stove after it.
+                    The user can also check the gas amount  in the cylinder add preset cooking time of individual dishes
+                     in ther mobile app
+                     This small brief overview captures the essence of a project aimed at simplifying daily culinary tasks."</p>
+
+
+                     <p>My inaugural project revolves around transforming the conventional junction box into an Omnipotential Voice-Activated Switch Box. This innovative solution aims to seamlessly recognize voice commands, enabling control over all devices connected to it whose power supply is synchronized with this switch. The goal is to introduce an intuitive and efficient means of managing various devices through voice control, revolutionizing the way we interact with and operate our electrical appliances. This project marks the inception of a solution that merges convenience with modern technology, paving the way for a smarter and more interconnected ecosystem.</p>
+            </p>
